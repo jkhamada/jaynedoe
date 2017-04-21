@@ -1,0 +1,189 @@
+/************************************************************************
+GENERAL
+*************************************************************************/
+
+
+
+#wrapper {
+  max-width: 970px;
+	margin: 0 auto;
+		
+/*	border: 1px solid green;*/
+/*	padding: 6px;*/
+	
+}
+
+#content-wrapper {
+  width: 970px;
+/*	border: 1px solid red;*/
+	background-color: darkorchid;
+	display: inline-block;
+
+}
+
+
+
+/************************************************************************
+HEADING
+*************************************************************************/
+header  {
+
+	
+}
+
+h1 {
+	display: inline-block;
+	padding-left: 20px;
+
+}
+
+h2 {
+	display: inline-block;
+	margin-left: 400px;
+}
+
+h3 {
+	background-color: #aeaeae;
+	font-size: 24px;
+	color: white;
+	padding: 5px;
+	padding-left: 10px;
+}
+
+h4 {
+background-color: #aeaeae;
+padding: 5px;
+color: white;
+font-size: 20px;	
+}
+
+
+/*********************************
+PAGE: MAIN CONTENT
+*********************************/
+
+
+#showcase {
+	display: inline-block;
+	border: 5px solid #d2d2d2;
+	margin: 20px;
+	vertical-align: top;
+}
+
+#showcase img {
+	width: 400px;
+}
+
+#about {
+	display: inline-block;
+	width: 475px;
+	height: 270px;
+	background-color: #d2d2d2;
+	margin-top: 20px;
+	margin-right: 20px;
+	
+	vertical-align: top;
+/*	padding: 3px;*/
+}
+
+#about p {
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#about a {	
+	padding-left: 10px;
+}
+
+.columns {
+	display: inline-block;
+	width: 275px;
+	vertical-align: top;
+	margin: 20px;
+	background-color: #d2d2d2;
+
+}
+
+.columns p {
+
+	padding-left: 10px;
+	padding-right: 10px;
+  width: 275px;
+	height: 95px;
+  font-size: small;
+	text-overflow: hidden;
+
+}
+
+.icons img {
+	width: 40px;
+}
+/************************************************************************
+FOOTER
+*************************************************************************/
+
+
+
+.social {
+ 
+  display:inline-block;
+}
+
+.social img {
+
+    width: 50px;
+	  height: 50px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+/*********************************
+COLORS
+ *********************************/
+
+
+
+/*site body*/
+
+#wrapper {
+  background-color: #f2f2f2;
+/*  color: #999;*/
+}
+
+#content-wrapper {
+	background-color: #782f78; 
+}
+
+
+#showcase {
+	
+}
+
+/* links */
+a {
+  color:black;
+}
+
+/* nav */
+
+/* nav link */
+/*
+nav a, nav a:visited {
+  color: #fff;
+*/
+/*} */
+
+/* selected nav link */
+/*
+nav a.selected, nav a:hover {
+  color: #32673F;
+*/
+/* } */
